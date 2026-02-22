@@ -8,7 +8,7 @@ The script performs LASSO-based feature selection, preprocessing, model training
 
 Software Environment
 
-R version: 4.5.2
+R version: 4.0.2
 
 Required R packages:
 
